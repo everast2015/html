@@ -102,4 +102,4 @@
 
 好处就是点击文字的时候，光标就聚焦在`<input/>` 文本框的里面
 
-![http://www.baidu.com](`http`)
+![http://www.baidu.com](https://github.com/yjn2015/html/blob/master/img/label.png)
