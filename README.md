@@ -91,3 +91,11 @@
 ```
 
 ## lable 标签和input标签的使用
+
+```html
+<label>
+    《平凡之路》
+    <input type="text"/>
+</label>
+
+```
