@@ -105,3 +105,10 @@
 ![点击文字聚焦input](https://github.com/yjn2015/html/blob/master/img/label.png)
 
 ## `html5`语义化标签
+
+
+语义化标签 | Column B | 
+---------|----------|
+ A1 | B1 | 
+ A2 | B2 | 
+ A3 | B3 |
