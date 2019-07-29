@@ -132,3 +132,5 @@
  document.createElement("footer");
 ```
 方法二、引入第三方插件
+
+> html5shiv.min.js 在默认情况下，IE8及以下的IE版本不支持html5，引入这个文件就可以做到兼容性的处理
