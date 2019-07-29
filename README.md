@@ -143,3 +143,4 @@ input 新增type属性 | 表单说明 | 解释
  `tel` | `<input type="tel"/>` | 主要目的就是为了弹出一个数字键盘
  `url`| `<input type="url"/>` | 输入合法的网址
  `number` | `<input type="number"/>` | 只能输入数字，不能输入其他的字符
+ `search` | `<input type="search"/>` | search 可以提供更人性化的体验
