@@ -122,6 +122,8 @@
  > 对于`IE9`以上的浏览器部分都支持`html5`的标签，但是对于`IE8`以下的浏览器，是不支持`html5`的标签的
 
  对于不支持的情况，我们可以手动创建：
+
 ```html
  document.createElement("header");
+ document.createElement("nav");
 ```
