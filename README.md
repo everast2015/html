@@ -112,4 +112,4 @@
  `header` | 头部 | 
  `nav` | 导航条 | 
  `main` | 主要内容 |
- `article` | 文章 |
+ `article` | 文章标记 |
