@@ -103,3 +103,5 @@
 好处就是点击文字的时候，光标就聚焦在`<input/>` 文本框的里面
 
 ![点击文字聚焦input](https://github.com/yjn2015/html/blob/master/img/label.png)
+
+## `html5`语义化标签
