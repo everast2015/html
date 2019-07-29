@@ -139,6 +139,6 @@
 
 input 新增type属性 | 表单说明 | 解释
 -------------------|----------|---------|
- `email` | 电子邮箱说明 | `<input type="email"/>`
- A2 | B2 | C2
+ `email` |  `<input type="email"/>` | 电子邮箱说明
+ `tel` | `<input type="tel"/>` | 主要目的就是为了弹出一个数字键盘
  A3 | B3 | C3
